@@ -1,0 +1,23 @@
+\documentclass[10pt]{beamer}
+
+\inputencoding{utf8}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[normalem]{ulem}
+\usepackage{amsfonts}
+
+\title[Показатели эффективности инвестиционных проектов]{Показатели эффективности инвестиционных проектов и их характеризационные свойства}
+\author{Александр Францев}
+\subtitle{\textit{Руководитель:} Соколов М.В.}
+\date{\textit{30 мая 2016}}
+% \institute[EU SPb]{European University at St. Petersburg}
+% 
+%использование темы
+\usetheme{EUTheme}
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\end{document}
